@@ -1,0 +1,4 @@
+[config]
+testcase_file=testcase.txt
+main_log=main
+detail_log=detail
